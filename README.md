@@ -31,7 +31,7 @@ siyuanShell for Android，需要你的安卓设备拥有root权限，建议使�
 
 ## 问题
 
-有问题请提交[issue]([Issues · aqz236/siyuanShell (github.com)](https://github.com/aqz236/siyuanShell/issues))
+有问题请提交[issue](https://github.com/aqz236/siyuanShell/issues)
 
 ## 许可
 
